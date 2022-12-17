@@ -62,10 +62,10 @@ export default function Carrousel(props) {
 
   return (
     <>
-      <div className="container ">
+      
         <h1 className="text-title"> Carousel hecho con SOLO ReactJs</h1>
         <CarouselImg
-          style={{ height: "auto", width: "auto" }}
+          style={{ height: "auto", width: "800px" }}
           src={require(`../assets/${selectedImage}`)}
           alt="Gato"
           className={loaded ? "loaded" : ""}
@@ -79,7 +79,7 @@ export default function Carrousel(props) {
             {">"}
           </CarouselButton>
         </CarouselContainer>
-      </div>
+      
     </>
   );
 }

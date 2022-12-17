@@ -8,7 +8,7 @@ import Rural3 from "../assets/rural3.jpg";
 
 function Carousel() {
   return (
-    <div className="container ">
+ 
       <div className="row">
         <div className="col-lg-6 mb-4 " >
          <div className="borde">
@@ -165,7 +165,7 @@ function Carousel() {
           </div>
         </div>
       </div>
-    </div>
+    
   );
 }
 

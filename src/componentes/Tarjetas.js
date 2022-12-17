@@ -7,7 +7,7 @@ import { Card } from "react-bootstrap";
 
 function Tarjetas() {
   return (
-    <div className="container">
+    
       <div className="row row-cols-1">
         <div className="col-lg-3 ">
           <Card
@@ -151,7 +151,7 @@ function Tarjetas() {
           </Card>
         </div>
       </div>
-    </div>
+    
   );
 }
 

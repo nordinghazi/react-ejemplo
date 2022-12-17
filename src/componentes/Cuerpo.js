@@ -5,7 +5,7 @@ import Foto from "../assets/yo.jpg";
 function Cuerpo() {
   return (
     <div
-      className="container"
+     
       style={{ marginTop: "3rem", marginBottom: "3rem" }}
     >
       <Card
