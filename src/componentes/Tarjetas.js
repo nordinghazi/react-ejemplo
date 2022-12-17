@@ -32,7 +32,7 @@ function Tarjetas() {
                 Primera tarjeta
               </Card.Title>
               <Card.Text style={{ color: "#330F2D", fontFamily: "cursive" }}>
-                Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>.
+                Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>
               </Card.Text>
               <hr />
               <p>An item</p>
@@ -68,7 +68,7 @@ function Tarjetas() {
                 Segunda tarjeta
               </Card.Title>
               <Card.Text style={{ color: "#330F2D", fontFamily: "cursive" }}>
-                Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>.
+                Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>
               </Card.Text>
               <hr />
               <p>An item</p>
@@ -104,7 +104,7 @@ function Tarjetas() {
                 Tercera tarjeta
               </Card.Title>
               <Card.Text style={{ color: "#330F2D", fontFamily: "cursive" }}>
-                Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>.
+                Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>
               </Card.Text>
               <hr />
               <p>An item</p>
@@ -141,7 +141,7 @@ function Tarjetas() {
                 Cuarta tarjeta
               </Card.Title>
               <Card.Text style={{ color: "#330F2D", fontFamily: "cursive" }}>
-                Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>.
+                Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>
               </Card.Text>
               <hr />
               <p>An item</p>
