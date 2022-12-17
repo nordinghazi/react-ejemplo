@@ -17,6 +17,7 @@ const CarouselImg = styled.img`
 `;
 
 const CarouselContainer = styled.div`
+  position:relative;
   display: block;
   align-content: center;
   flex-direction: row;
@@ -65,7 +66,7 @@ export default function Carrousel(props) {
       
         <h1 className="text-title"> Carousel hecho con SOLO ReactJs</h1>
         <CarouselImg
-          style={{ height: "auto", width: "800px" }}
+          style={{ height: "auto", maxWidth: '65%' }}
           src={require(`../assets/${selectedImage}`)}
           alt="Gato"
           className={loaded ? "loaded" : ""}
@@ -79,7 +80,7 @@ export default function Carrousel(props) {
             {">"}
           </CarouselButton>
         </CarouselContainer>
-      
+        
     </>
   );
 }

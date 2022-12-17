@@ -33,9 +33,9 @@ function Cuerpo() {
                 style={{ marginTop: 50,fontSize:'20px', fontFamily:"cursive" }}
               >
                 ES: Hola, mi nombre es Nordín y esto es un ejemplo para mostrar
-                una tarjeta sencilla hecha con CSS y BOOTSTRAP, espero que les
+                tarjetas sencilla y carousels hechos con CSS y BOOTSTRAP, espero que les
                 guste :) <br/><hr/> EN: Hello, my name is Nordín and this is an example to
-                show a simple card made with CSS and BOOTSTRAP, I hope you like
+                show a simple cards and carousels made with CSS and BOOTSTRAP, I hope you like
                 it :)
               </Card.Text>
             </Card.Body>
