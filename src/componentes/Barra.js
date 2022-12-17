@@ -35,7 +35,7 @@ function Barra() {
                     className="me-2"
                     aria-label="Search"
                   />
-                  <Button variant="outline-success">Search</Button>
+                  <Button variant="outline-success">Buscar</Button>
                 </Form>
               </Offcanvas.Body>
             </Navbar.Offcanvas>
