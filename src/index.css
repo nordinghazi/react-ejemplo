@@ -32,3 +32,15 @@ body {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   
 }
+.carouselContainer{
+  display: block;
+  align-content: center;
+  flex-direction: row;
+  margin-top: 15px;
+}
+.buttonContainer{
+  color: white;
+  background-color: #1d3434;
+  padding: 8px;
+  margin: 5px;
+}
