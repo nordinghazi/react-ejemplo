@@ -35,9 +35,8 @@ function Tarjetas() {
                 Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>
               </Card.Text>
               <hr />
-              <p>An item</p>
-              <hr />
-              <p>An item</p>
+              <p>By Nordín</p>
+              
             </Card.Body>
           </Card>
         </div>
@@ -71,9 +70,8 @@ function Tarjetas() {
                 Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>
               </Card.Text>
               <hr />
-              <p>An item</p>
-              <hr />
-              <p>An item</p>
+              <p>By Nordín</p>
+              
             </Card.Body>
           </Card>
         </div>
@@ -107,9 +105,8 @@ function Tarjetas() {
                 Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>
               </Card.Text>
               <hr />
-              <p>An item</p>
-              <hr />
-              <p>An item</p>
+              <p>By Nordín</p>
+              
             </Card.Body>
           </Card>
         </div>
@@ -144,9 +141,8 @@ function Tarjetas() {
                 Esta tarjeta esta hecha con Bootstrap por <h3>Nordín</h3>
               </Card.Text>
               <hr />
-              <p>An item</p>
-              <hr />
-              <p>An item</p>
+              <p>By Nordín</p>
+              
             </Card.Body>
           </Card>
         </div>
