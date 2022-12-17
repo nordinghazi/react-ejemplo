@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-ejemplo/static/css/main.25131f68.css",
+    "main.js": "/react-ejemplo/static/js/main.0f9d6757.js",
+    "static/js/787.4679eb78.chunk.js": "/react-ejemplo/static/js/787.4679eb78.chunk.js",
+    "static/media/rural1.jpg": "/react-ejemplo/static/media/rural1.c224b06d5b4a2d5d6fcf.jpg",
+    "static/media/rural2.jpg": "/react-ejemplo/static/media/rural2.7c5f36fddb3b83fd2e1b.jpg",
+    "static/media/gato1.jpg": "/react-ejemplo/static/media/gato1.bd85158a155a480295a8.jpg",
+    "static/media/gato3.jpg": "/react-ejemplo/static/media/gato3.cb3f1f69eac68536a1d6.jpg",
+    "static/media/rural3.jpg": "/react-ejemplo/static/media/rural3.9346cb35a72f610d9e2c.jpg",
+    "static/media/gato2.jpg": "/react-ejemplo/static/media/gato2.3d68f31b9f2cbf2a3ed4.jpg",
+    "static/media/frontend.jpg": "/react-ejemplo/static/media/frontend.db66750a59897de106af.jpg",
+    "static/media/js.jpg": "/react-ejemplo/static/media/js.2b28d5b14c42361efbf3.jpg",
+    "static/media/java.jpg": "/react-ejemplo/static/media/java.0a4893421f4eb80a395c.jpg",
+    "static/media/html.jpg": "/react-ejemplo/static/media/html.a130d95069029b3a099a.jpg",
+    "static/media/yo.jpg": "/react-ejemplo/static/media/yo.bae3706527c60fbbd120.jpg",
+    "index.html": "/react-ejemplo/index.html",
+    "main.25131f68.css.map": "/react-ejemplo/static/css/main.25131f68.css.map",
+    "main.0f9d6757.js.map": "/react-ejemplo/static/js/main.0f9d6757.js.map",
+    "787.4679eb78.chunk.js.map": "/react-ejemplo/static/js/787.4679eb78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25131f68.css",
+    "static/js/main.0f9d6757.js"
+  ]
+}
